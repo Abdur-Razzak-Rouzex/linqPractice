@@ -1,0 +1,15 @@
+D:\Projects\dot net projects\linqPractice\bin\Debug\net6.0\linqPractice.exe
+D:\Projects\dot net projects\linqPractice\bin\Debug\net6.0\linqPractice.deps.json
+D:\Projects\dot net projects\linqPractice\bin\Debug\net6.0\linqPractice.runtimeconfig.json
+D:\Projects\dot net projects\linqPractice\bin\Debug\net6.0\linqPractice.dll
+D:\Projects\dot net projects\linqPractice\bin\Debug\net6.0\linqPractice.pdb
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.csproj.AssemblyReference.cache
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.AssemblyInfoInputs.cache
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.AssemblyInfo.cs
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.csproj.CoreCompileInputs.cache
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.dll
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\refint\linqPractice.dll
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.pdb
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\linqPractice.genruntimeconfig.cache
+D:\Projects\dot net projects\linqPractice\obj\Debug\net6.0\ref\linqPractice.dll
